@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mediter
-- 👀 I’m interested in Biology, Medicine, Literature & Entertainment (Science-Fiction, Detective/Spy), Software
+- 👀 I’m interested in Software Development, UI/UX Design, Biology, Medicine, Literature & Entertainment (Science-Fiction, Detective/Spy)
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on iOS/iPadOS/macOS projects
 - 📫 How to reach me hit.churns_0@icloud.com
